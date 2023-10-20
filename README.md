@@ -1,7 +1,10 @@
+## demostrate
+![someone2](https://github.com/Ccanochu/vaadin-user-app/assets/63028873/3cc06826-270a-4abe-86c5-860d360f7228)
+
 # web
 
 This project can be used as a starting point to create your own Vaadin application with Spring Boot.
-It contains all the necessary configuration and some placeholder files to get you started.
+It contains all the necessary configuration and some placeholder files to get you started. This is a simple CRUD (Create, Read, Update, Delete) application for managing user data. It utilizes Vaadin for the front-end and connects to a MariaDB database for data storage.
 
 ## Running the application
 
